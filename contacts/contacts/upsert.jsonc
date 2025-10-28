@@ -1,0 +1,61 @@
+{
+    "first_name": "Rosan",
+    "last_name": "Does",
+    "name": "Rosan Does",
+    "email": "rosan123@deoss.com",
+    "location_id": "IxfSlEIQQeiOYQlVEApa",
+    "gender": "male",
+    "phone": "+1 888-888-2314",
+    "address1": "3535 1st St N",
+    "city": "Dolomite",
+    "state": "AL",
+    "postal_code": "35061",
+    "website": "https://www.tesla.com",
+    "timezone": "America/Chihuahua",
+    "dnd": true,
+    "dnd_settings": {
+        "additionalProp1": {
+            "status": "active",
+            "message": "hello",
+            "code": "hello1232"
+        },
+        "additionalProp2": {
+            "status": "active",
+            "message": "hello",
+            "code": "hello1232"
+        },
+        "additionalProp3": {
+            "status": "active",
+            "message": "hello",
+            "code": "hello1232"
+        }
+    },
+    "inbound_dnd_settings": {
+        "additionalProp1": {
+            "status": "active",
+            "message": "hello"
+        },
+        "additionalProp2": {
+            "status": "active",
+            "message": "hello"
+        },
+        "additionalProp3": {
+            "status": "active",
+            "message": "hello"
+        }
+    },
+    "tags": [
+        "consequat"
+    ],
+    "custom_fields": [
+        {
+            "id": "EHnICTrpVnzdTdk6pWx7",
+            "key": "contact.dhiman__drop_down",
+            "field_value": "Dhiman | Drop Down"
+        }
+    ],
+    "source": "public api",
+    "country": "US",
+    "company_name": "Google",
+    "assigned_to": "i1CcsDXpngqsHTZXkEfJ"
+}

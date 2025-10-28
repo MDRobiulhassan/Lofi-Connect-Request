@@ -1,0 +1,25 @@
+{
+    "company_id": "2Y6wzd96Wjmrl1yEm99j",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "jogndoe@gmail.com",
+    "password": "Absdf12_sdf",
+    "phone": "+18832327657",
+    "type": "account",
+    "role": "admin",
+    "location_ids": [
+        "IxfSlEIQQeiOYQlVEApa"
+    ],
+    "permissions": {
+        "additionalProp1": true,
+        "additionalProp2": true,
+        "additionalProp3": true
+    },
+    "scopes": [
+        "campaigns.readonly"
+    ],
+    "scopes_assigned_to_only": [
+        "campaigns.readonly"
+    ],
+    "profile_photo": "https://img.png"
+}

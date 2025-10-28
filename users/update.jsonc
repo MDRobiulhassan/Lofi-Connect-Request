@@ -1,0 +1,27 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "jogndoe@gmail.com",
+    "email_change_otp": "abc123",
+    "password": "Absdf12_sdf",
+    "phone": "+18832327657",
+    "is_ejected_user": true,
+    "type": "account",
+    "role": "admin",
+    "company_id": "2Y6wzd96Wjmrl1yEm99j",
+    "location_ids": [
+        "IxfSlEIQQeiOYQlVEApa"
+    ],
+    "permissions": {
+        "additionalProp1": true,
+        "additionalProp2": true,
+        "additionalProp3": true
+    },
+    "scopes": [
+        "contacts.write"
+    ],
+    "scopes_assigned_to_only": [
+        "contacts.write"
+    ],
+    "profile_photo": "https://img.png"
+}

@@ -1,0 +1,17 @@
+{
+    "pipeline_id": "HceOPjAqAcIBkA4Nsfev",
+    "location_id": "IxfSlEIQQeiOYQlVEApa",
+    "name": "First Opps",
+    "pipeline_stage_id": "a4aa56f5-b332-44ca-9329-c860afc3908b",
+    "status": "open",
+    "contact_id": "Lq95Y9oQzB4KojmsjUxs",
+    "monetary_value": 0,
+    "assigned_to": "i1CcsDXpngqsHTZXkEfJ",
+    "custom_fields": [
+        {
+            "id": "EHnICTrpVnzdTdk6pWx7",
+            "key": "contact.dhiman__drop_down",
+            "field_value": "Dhiman | Drop Down"
+        }
+    ]
+}

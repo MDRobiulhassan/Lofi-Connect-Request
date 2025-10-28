@@ -1,0 +1,11 @@
+{
+    "title": "Test Event",
+    "calendar_id": "2mqNXde5z5IYQjNKcprY",
+    "assigned_user_id": "zlOSBQcKz3njTjHUdsUZ",
+    "location_id": "IxfSlEIQQeiOYQlVEApa",
+    "time_zone": "string",
+    "start_date": "2025-10-28",
+    "start_time": "PST",
+    "end_date": "2025-10-28",
+    "end_time": "10:00:00"
+}

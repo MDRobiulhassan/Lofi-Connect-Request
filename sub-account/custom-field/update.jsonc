@@ -1,0 +1,17 @@
+{
+    "name": "Custom Field 2",
+    "placeholder": "Placeholder Text 2",
+    "accepted_format": [
+        ".docx"
+    ],
+    "is_multiple_file": true,
+    "max_number_of_files": 3,
+    "text_box_list_options": [
+        {
+            "label": "First",
+            "prefill_value": "ls"
+        }
+    ],
+    "position": 0,
+    "model": "opportunity"
+}

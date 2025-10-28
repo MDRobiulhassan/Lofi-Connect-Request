@@ -1,0 +1,45 @@
+{
+    "name": "Mark Shoes",
+    "phone": "+1410039940",
+    "company_id": "2Y6wzd96Wjmrl1yEm99j",
+    "address": "4th fleet street",
+    "city": "New York",
+    "state": "Illinois",
+    "country": "US",
+    "postal_code": "567654",
+    "website": "https://google.com",
+    "timezone": "Pacific/Apia",
+    "prospect_info": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@mail.com"
+    },
+    "settings": {
+        "allowDuplicateContact": true,
+        "allowDuplicateOpportunity": true,
+        "allowFacebookNameMerge": true,
+        "disableContactTimezone": true
+    },
+    "social": {
+        "facebookUrl": "https://www.facebook.com/",
+        "googlePlus": "https://www.googleplus.com/",
+        "linkedIn": "https://www.linkedIn.com/",
+        "foursquare": "https://www.foursquare.com/",
+        "twitter": "https://www.foutwitterrsquare.com/",
+        "yelp": "https://www.yelp.com/",
+        "instagram": "https://www.instagram.com/",
+        "youtube": "https://www.youtube.com/",
+        "pinterest": "https://www.pinterest.com/",
+        "blogRss": "https://www.blogRss.com/",
+        "googlePlacesId": "ChIJJGPdVbQTrjsRGUkefteUeFk"
+    },
+    "twilio": {
+        "sid": "AC_XXXXXXXXXXX",
+        "authToken": "77_XXXXXXXXXXX"
+    },
+    "mailgun": {
+        "apiKey": "AC_XXXXXXXXXXX",
+        "domain": "77_XXXXXXXXXXX"
+    },
+    "snapshot_id": "XXXXXXXXXXX"
+}

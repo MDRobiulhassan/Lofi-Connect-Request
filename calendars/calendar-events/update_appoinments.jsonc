@@ -1,0 +1,16 @@
+{
+    "title": "Test Event",
+    "meeting_location_type": "custom",
+    "meeting_location_id": "custom_0",
+    "override_location_config": true,
+    "appointment_status": "confirmed",
+    "assigned_user_id": "zlOSBQcKz3njTjHUdsUZ",
+    "address": "Bangladesh",
+    "ignore_date_range": true,
+    "to_notify": true,
+    "ignore_free_slot_validation": true,
+    "rrule": "RRULE:FREQ=DAILY;INTERVAL=1;COUNT=5",
+    "calendar_id": "2mqNXde5z5IYQjNKcprY",
+    "start_time": "2021-06-23T03:30:00+05:30",
+    "end_time": "2021-06-23T04:30:00+05:30"
+}
