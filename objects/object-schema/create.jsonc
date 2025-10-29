@@ -1,0 +1,14 @@
+{
+    "labels": {
+        "singular": "Pet",
+        "plural": "Pets"
+    },
+    "key": "custom_objects.pet",
+    "description": "These are non vaccinated pets",
+    "location_id": "IxfSlEIQQeiOYQlVEApa",
+    "primary_display_property_details": {
+        "key": "custom_objects.pet.name",
+        "name": "Pet name",
+        "data_type": "TEXT"
+    }
+}

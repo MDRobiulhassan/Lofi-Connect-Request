@@ -1,0 +1,13 @@
+{
+    "name": "Test Business",
+    "location_id": "string",
+    "phone": "+18832327657",
+    "email": "john@deo.com",
+    "website": "www.xyz.com",
+    "address": "street adress",
+    "city": "new york",
+    "postal_code": "12312312",
+    "state": "new york",
+    "country": "us",
+    "description": "business description"
+}

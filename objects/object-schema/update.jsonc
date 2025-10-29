@@ -1,0 +1,11 @@
+{
+    "labels": {
+        "singular": "Pet",
+        "plural": "Pets"
+    },
+    "description": "These are non vaccinated pets",
+    "location_id": "IxfSlEIQQeiOYQlVEApa",
+    "searchable_properties": [
+        "custom_objects.pets.name"
+    ]
+}

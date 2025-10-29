@@ -1,0 +1,63 @@
+{
+    "locationId": "IxfSlEIQQeiOYQlVEApa",
+    "userId": "i1CcsDXpngqsHTZXkEfJ",
+    "products": [
+        {
+            "title": "Test Course",
+            "description": "a test course",
+            "imageUrl": "https://example.com/img.png",
+            "categories": [
+                {
+                    "title": "test title",
+                    "visibility": "published",
+                    "thumbnailUrl": "https://example.com/thumbnail.png",
+                    "posts": [
+                        {
+                            "title": "test title",
+                            "visibility": "published",
+                            "thumbnailUrl": "https://example.com/thumbnail.png",
+                            "contentType": "video",
+                            "description": "test",
+                            "bucketVideoUrl": "https://youtube.com/watch?v=xyz",
+                            "postMaterials": [
+                                {
+                                    "title": "test",
+                                    "type": "mp4",
+                                    "url": "https://example.com/image.png"
+                                }
+                            ]
+                        }
+                    ],
+                    "subCategories": [
+                        {
+                            "title": "test",
+                            "visibility": "published",
+                            "thumbnailUrl": "https://example.com/subcategory.png",
+                            "posts": [
+                                {
+                                    "title": "test",
+                                    "visibility": "published",
+                                    "thumbnailUrl": "https://example.com/thumbnail.png",
+                                    "contentType": "video",
+                                    "description": "test course",
+                                    "bucketVideoUrl": "https://youtube.com/watch?v=xyz",
+                                    "postMaterials": [
+                                        {
+                                            "title": "published",
+                                            "type": "mp4",
+                                            "url": "https://example.com/video.mp4"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "instructorDetails": {
+                "name": "John",
+                "description": "SDE"
+            }
+        }
+    ]
+}

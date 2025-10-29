@@ -1,0 +1,12 @@
+{
+    "name": "Test Business 2",
+    "phone": "+18832327657",
+    "email": "john@deo.com",
+    "postal_code": "12312312",
+    "website": "www.xyz.com",
+    "address": "street adress",
+    "state": "new york",
+    "city": "new york",
+    "country": "US",
+    "description": "business description 1"
+}
