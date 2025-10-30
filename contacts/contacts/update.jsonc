@@ -1,65 +1,67 @@
 {
-    "first_name": "Rosan",
-    "last_name": "Does",
-    "name": "Rosan Does",
-    "email": "rosan123@deoss.com",
-    "phone": "+1 888-888-2314",
-    "address1": "3535 1st St N",
-    "city": "Dolomite",
-    "state": "AL",
-    "postal_code": "35061",
-    "website": "https://www.tesla.com",
-    "timezone": "America/Chihuahua",
+    "first_name": "Elena",
+    "last_name": "Martinez",
+    "name": "Elena Martinez",
+    "email": "elena.martinez@example.com",
+    "phone": "+1 312-555-0173",
+    "address1": "1024 W Addison St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60613",
+    "website": "https://elenamartinez.co",
+    "timezone": "America/Chicago",
     "dnd": true,
     "dnd_settings": {
         "call": {
             "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "message": "Unavailable for calls at the moment.",
+            "code": "DND-CALL-2025"
         },
         "email": {
-            "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "status": "inactive",
+            "message": "Open to email communication.",
+            "code": "EMAIL-OK-2025"
         },
         "sms": {
             "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "message": "Do not send SMS messages.",
+            "code": "DND-SMS-2025"
         },
         "whats_app": {
-            "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "status": "inactive",
+            "message": "WhatsApp communication is allowed.",
+            "code": "WA-OK-2025"
         },
         "gmb": {
-            "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "status": "inactive",
+            "message": "Available on Google My Business chat.",
+            "code": "GMB-OK-2025"
         },
         "fb": {
-            "status": "active",
-            "message": "hello",
-            "code": "hello123"
+            "status": "inactive",
+            "message": "Facebook Messenger is allowed.",
+            "code": "FB-OK-2025"
         }
     },
     "inbound_dnd_settings": {
         "all": {
             "status": "active",
-            "message": "hello"
+            "message": "Currently not accepting inbound communications. Please try later."
         }
     },
     "tags": [
-        "consequat"
+        "vip-client",
+        "lead-q4",
+        "newsletter-subscriber"
     ],
     "custom_fields": [
         {
             "id": "EHnICTrpVnzdTdk6pWx7",
-            "key": "contact.dhiman__drop_down",
-            "field_value": "Dhiman | Drop Down"
+            "key": "contact.interest_level",
+            "field_value": "High"
         }
     ],
-    "source": "public api",
+    "source": "referral - linkedin",
     "country": "US",
     "assigned_to": "i1CcsDXpngqsHTZXkEfJ"
 }

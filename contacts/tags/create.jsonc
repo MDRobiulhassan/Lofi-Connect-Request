@@ -1,3 +1,7 @@
+//contact-id : Lq95Y9oQzB4KojmsjUxs
+
 {
-  "name": "Test tag"
+  "tags": [
+    "string"
+  ]
 }

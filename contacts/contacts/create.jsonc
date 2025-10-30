@@ -2,16 +2,16 @@
     "first_name": "Rosan",
     "last_name": "Deo",
     "name": "Rosan Deo",
-    "email": "rosan@deos.com",
+    "email": "rosan.deo@gmail.com",
     "location_id": "IxfSlEIQQeiOYQlVEApa",
     "gender": "male",
-    "phone": "+1 888-888-8888",
-    "address1": "3535 1st St N",
+    "phone": "+1 205-555-0198",
+    "address1": "3535 1st Street North",
     "city": "Dolomite",
     "state": "AL",
     "postal_code": "35061",
-    "website": "https://www.tesla.com",
-    "timezone": "America/Chihuahua",
+    "website": "https://rosandeo.com",
+    "timezone": "America/Chicago",
     "dnd": true,
     "dnd_settings": {
         "call": {
@@ -48,21 +48,23 @@
     "inbound_dnd_settings": {
         "all": {
             "status": "active",
-            "message": "hello"
+            "message": "Hi there! I'm currently unavailable. Please leave a message."
         }
     },
     "tags": [
-        "consequat"
+        "lead",
+        "high-interest",
+        "newsletter-subscriber"
     ],
     "custom_fields": [
         {
             "id": "EHnICTrpVnzdTdk6pWx7",
             "key": "contact.dhiman__drop_down",
-            "field_value": "Dhiman | Drop Down"
+            "field_value": "Premium Lead"
         }
     ],
-    "source": "public api",
+    "source": "lead form - homepage",
     "country": "US",
-    "company_name": "Google",
+    "company_name": "Deo Innovations LLC",
     "assigned_to": "i1CcsDXpngqsHTZXkEfJ"
 }

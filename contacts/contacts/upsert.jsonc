@@ -1,61 +1,70 @@
 {
     "first_name": "Rosan",
-    "last_name": "Does",
-    "name": "Rosan Does",
-    "email": "rosan123@deoss.com",
+    "last_name": "Deo",
+    "name": "Rosan Deo",
+    "email": "rosan.deo@gmail.com",
     "location_id": "IxfSlEIQQeiOYQlVEApa",
     "gender": "male",
-    "phone": "+1 888-888-2314",
-    "address1": "3535 1st St N",
+    "phone": "+1 205-555-0198",
+    "address1": "3535 1st Street North",
     "city": "Dolomite",
     "state": "AL",
     "postal_code": "35061",
-    "website": "https://www.tesla.com",
-    "timezone": "America/Chihuahua",
+    "website": "https://rosandeo.com",
+    "timezone": "America/Chicago",
     "dnd": true,
     "dnd_settings": {
-        "additionalProp1": {
+        "call": {
             "status": "active",
-            "message": "hello",
-            "code": "hello1232"
+            "message": "Do not disturb via phone call",
+            "code": "DND-CALL-001"
         },
-        "additionalProp2": {
-            "status": "active",
-            "message": "hello",
-            "code": "hello1232"
+        "email": {
+            "status": "inactive",
+            "message": "Email communication allowed",
+            "code": "EMAIL-OK-002"
         },
-        "additionalProp3": {
+        "sms": {
             "status": "active",
-            "message": "hello",
-            "code": "hello1232"
+            "message": "Text messages disabled",
+            "code": "DND-SMS-003"
+        },
+        "whats_app": {
+            "status": "inactive",
+            "message": "WhatsApp messaging allowed",
+            "code": "WA-OK-004"
+        },
+        "gmb": {
+            "status": "inactive",
+            "message": "Google My Business messages allowed",
+            "code": "GMB-OK-005"
+        },
+        "fb": {
+            "status": "inactive",
+            "message": "Facebook Messenger allowed",
+            "code": "FB-OK-006"
         }
     },
     "inbound_dnd_settings": {
-        "additionalProp1": {
+        "all": {
             "status": "active",
-            "message": "hello"
-        },
-        "additionalProp2": {
-            "status": "active",
-            "message": "hello"
-        },
-        "additionalProp3": {
-            "status": "active",
-            "message": "hello"
+            "message": "Currently unavailable – please leave a message."
         }
     },
     "tags": [
-        "consequat"
+        "lead",
+        "interested",
+        "newsletter"
     ],
     "custom_fields": [
         {
             "id": "EHnICTrpVnzdTdk6pWx7",
-            "key": "contact.dhiman__drop_down",
-            "field_value": "Dhiman | Drop Down"
+            "key": "contact.preferred_package",
+            "field_value": "Gold Membership"
         }
     ],
-    "source": "public api",
+    "source": "lead form - homepage",
     "country": "US",
-    "company_name": "Google",
+    "company_name": "Deo Innovations LLC",
     "assigned_to": "i1CcsDXpngqsHTZXkEfJ"
 }
