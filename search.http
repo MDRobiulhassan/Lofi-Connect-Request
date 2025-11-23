@@ -1,0 +1,67 @@
+### Search Contact
+### Full Payload
+POST http://localhost:8080/api/v1/ghl/contacts/search
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+  "phone": "",
+  "email": "test1@gmail.com",
+  "page_limit": 10,
+  "page": 1
+}
+
+### Only Required Fields
+POST http://localhost:8080/api/v1/ghl/contacts/search
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+  "page_limit": 10
+}
+
+
+### Search Task
+### Full Payload
+POST http://localhost:8080/api/v1/ghl/locations/tasks/search
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+  "contact_id": [
+    "Lq95Y9oQzB4KojmsjUxs"
+  ],
+  "completed": true,
+  "assigned_to": [
+    "Zs21L9iF4nJUTEVPvo90"
+  ],
+  "query": "",
+  "limit": 10,
+  "skip": 0,
+  "business_id": ""
+}
+
+### Only Required Fields
+POST http://localhost:8080/api/v1/ghl/locations/tasks/search
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+
+}
+
+###
+GET http://localhost:8080/api/v1/ghl/contacts/search/duplicate
+Authorization: Bearer {{bearerToken}}
+
+###
+GET http://localhost:8080/api/v1/ghl/locations/search
+Authorization: Bearer {{bearerToken}}
+
+###
+GET http://localhost:8080/api/v1/ghl/conversations/search?location-id=IxfSlEIQQeiOYQlVEApa
+Authorization: Bearer {{bearerToken}}
+
+###
+GET http://localhost:8080/api/v1/ghl/opportunities/search
+Authorization: Bearer {{bearerToken}}

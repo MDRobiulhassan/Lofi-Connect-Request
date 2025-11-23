@@ -1,0 +1,34 @@
+###
+POST http://localhost:8080/api/v1/ghl/custom-values
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+  "name": "Test Custom Value",
+  "value": "Test value"
+}
+
+###
+GET http://localhost:8080/api/v1/ghl/custom-values
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+###
+GET http://localhost:8080/api/v1/ghl/locations/custom-values/axrHqx2gcsyo3TT8CuzG
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+###
+PUT http://localhost:8080/api/v1/ghl/custom-values/axrHqx2gcsyo3TT8CuzG
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
+
+{
+  "name": "Updated Custom Value",
+  "value": "Custom value updated"
+}
+
+###
+DELETE http://localhost:8080/api/v1/ghl/custom-values/axrHqx2gcsyo3TT8CuzG
+Content-Type: application/json
+Authorization: Bearer {{bearerToken}}
